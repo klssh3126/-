@@ -3,4 +3,4 @@
 
 ## Chapter 9. java.lang 패키지와 유용한 클래스
 
-## Chapter 11. 컬렉션 프레임웍
+## Chapter 11. 컬렉션 프레임워크
