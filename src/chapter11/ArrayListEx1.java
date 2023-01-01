@@ -32,7 +32,7 @@ public class ArrayListEx1 {
 		System.out.println("list1.retainAll(list2):" + list1.retainAll(list2));
 		print(list1, list2);
 
-		// list2에서 lis]t1에 포함된 객체들을 삭제한다.
+		// list2에서 list1에 포함된 객체들을 삭제한다.
 		for (int i =0  ; i <=list2.size() - 1; i++) {
 			if (list1.contains(list2.get(i)))
 				list2.remove(i);
